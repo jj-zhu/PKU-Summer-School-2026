@@ -1,7 +1,9 @@
 # Computational Gradient Flows and Optimal Transport: an Introduction
 
-Course materials from the lectures given during July 20–31, 2026, at the
-Summer School on Applied Mathematics, Peking University, China.
+This is course materials from the lectures given during July 20–31, 2026, at the
+Summer School on Applied Mathematics, Peking University, China. 
+
+The goal of the course is to provide an introcution to the technical topics accessible to researchers in computation and applied fields. For the theoretical backbone, I was greatly influenced by *Villani*'s texts as well as [*Alexander Mielke*'s notes](https://arxiv.org/abs/2306.05026), albeit my course is significantly less analysis-heavy, and geared towards applied and computational audiences.
 
 ## Course materials
 
