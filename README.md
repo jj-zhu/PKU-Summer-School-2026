@@ -19,19 +19,7 @@ reviewed or approved by the lecturer and may contain transcription or
 AI-generated errors or omissions. It is not the lecturer's final or official
 publication.
 
-For scholarly work, cite the specific tagged release or its DOI rather than the mutable
-default-branch file.
-
-## Citation
-
-Use the **Cite this repository** menu on GitHub. Once a DOI is assigned to a
-release, prefer its version-specific DOI:
-
-> Zhu, Jia-Jie. *Computational Gradient Flows and Optimal Transport: An
-> Introduction*. PKU Summer School lecture notes, 2026, version
-> `transcription-v0.1`.
-
-BibLaTeX citation key: `zhu2026cgf`
+For scholarly work, cite the specific tagged release or the BibLaTeX citation key: `zhu2026cgf`
 
 ```bibtex
 @report{zhu2026cgf,
@@ -43,8 +31,7 @@ BibLaTeX citation key: `zhu2026cgf`
   version     = {transcription-v0.1},
   year        = {2026},
   url         = {https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/transcription-v0.1},
-  note        = {Unofficial student transcription prepared by Lunji Zhu
-                 with assistance from Claude AI; unreviewed}
+  note        = {Unofficial student transcription prepared by student; unreviewed}
 }
 ```
 
