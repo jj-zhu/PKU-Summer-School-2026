@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the version-specific release or DOI for the course materials you used."
+title: "Computational Gradient Flows and Optimal Transport: An Introduction"
+abstract: >-
+  Course materials for the 2026 Summer School on Applied Mathematics at
+  Peking University, including handwritten lecture notes and an unofficial
+  AI-assisted student transcription.
+authors:
+  - family-names: "Zhu"
+    given-names: "Jia-Jie"
+    affiliation: "KTH Royal Institute of Technology"
+date-released: "2026-08-14"
+version: "transcription-v0.1"
+url: "https://github.com/jj-zhu/PKU-Summer-School-2026"
+keywords:
+  - gradient flows
+  - optimal transport
+  - lecture notes
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Zhu"
+      given-names: "Jia-Jie"
+  title: "Computational Gradient Flows and Optimal Transport: An Introduction"
+  year: 2026
+  version: "transcription-v0.1"
+  url: "https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/transcription-v0.1"
+  notes: >-
+    Unofficial student transcription prepared by Lunji Zhu with assistance
+    from Claude AI; not reviewed or approved by the lecturer.
