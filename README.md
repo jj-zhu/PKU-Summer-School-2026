@@ -9,8 +9,8 @@ The goal of the course is to provide an introcution to the technical topics acce
 
 | Material | Status | Access |
 | --- | --- | --- |
-| Handwritten lecture notes | Original course record | [Version 1.0 release](https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/v1.0) |
-| Typeset student transcription | Version 0.1, unofficial and unreviewed | [Current PDF](notes/cgf_notes_transcribed.pdf) · [Versioned release](https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/transcription-v0.1) |
+| Handwritten lecture notes | Original course record | [Download PDF](https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/v1.0) |
+| Typeset student transcription | Unofficial and unreviewed | [Download PDF](notes/cgf_notes_transcribed.pdf)|
 | Extended official notes | Forthcoming | — |
 
 ### Status of the student transcription
