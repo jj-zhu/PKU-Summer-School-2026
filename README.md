@@ -9,13 +9,12 @@ The goal of the course is to provide an introcution to the technical topics acce
 
 | Material | Status | Access |
 | --- | --- | --- |
-| Handwritten lecture notes | Original course record | [Download PDF](https://github.com/jj-zhu/PKU-Summer-School-2026/releases/tag/v1.0) |
 | Typeset student transcription | Unofficial and unreviewed | [Download PDF](notes/cgf_notes_transcribed.pdf)|
 | Extended official notes | Forthcoming | — |
 
 ### Status of the student transcription
 
-The typeset version was prepared by Lunji Zhu (UCLA), with assistance from
+The typeset version was prepared by *Lunji Zhu* (UCLA), with assistance from
 Claude AI, from lectures and course materials during the summer school. It has not been
 reviewed or approved by the lecturer and may contain transcription or
 AI-generated errors or omissions. It is not the lecturer's final or official
