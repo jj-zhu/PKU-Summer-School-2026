@@ -3,7 +3,7 @@
 This is course materials from the lectures given during July 20–31, 2026, at the
 Summer School on Applied Mathematics, Peking University, China. 
 
-The goal of the course is to provide an introcution to the technical topics accessible to researchers in computation and applied fields. For the theoretical backbone, I was greatly influenced by *Villani*'s writings as well as [*Alexander Mielke*'s notes](https://arxiv.org/abs/2306.05026), albeit my course is significantly less analysis-heavy, and geared towards applied and computational audiences.
+The goal of the course is to provide an introcution to the technical topics accessible to researchers in computation and applied fields. For the theoretical backbone, I was greatly influenced by *Villani*'s writings as well as [*Alexander Mielke*'s lectures I attended while working in Berlin](https://arxiv.org/abs/2306.05026). Although my lectures are significantly less analysis-heavy, and geared towards applied and computational audiences.
 
 ## Course materials
 
